@@ -16,8 +16,7 @@ I'm a Junior Cybersecurity Specialist with a passion for making the internet saf
 
 - Focused on **AI-powered security**, **malware analysis**, and **ethical hacking**
 - Thesis: *Quantum Computing's Impact on RSA Encryption*
-- Former IT Administrator at Webster University Geneva — secured networks, automated processes, led projects
-- Based in Europe, moving to Brisbane, Australia in 2025
+- Based in Europe
 
 ---
 
