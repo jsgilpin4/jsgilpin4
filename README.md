@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.joelgilpin.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-joelgilpin.com-0a0a0a?style=flat-square&logo=firefox&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/joelgilpin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Joel%20Gilpin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/CrypticCyclone" target="_blank"><img src="https://img.shields.io/badge/GitHub-CrypticCyclone-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/jsgilpin4" target="_blank"><img src="https://img.shields.io/badge/GitHub-jsgilpin4-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:joel.gilpin.4@gmail.com"><img src="https://img.shields.io/badge/Email-joel.gilpin.4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -16,8 +16,7 @@ I'm a Junior Cybersecurity Specialist with a passion for making the internet saf
 
 - Focused on **AI-powered security**, **malware analysis**, and **ethical hacking**
 - Thesis: *Quantum Computing's Impact on RSA Encryption*
-- Former IT Administrator at Webster University Geneva — secured networks, automated processes, led projects
-- Based in Europe, moving to Brisbane, Australia in 2025
+- Based in Europe
 
 ---
 
